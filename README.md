@@ -9,9 +9,10 @@ To create ATM System software that will meet the needs of the applicant and help
 to withdraw money,deposit.
 
 ### UML DIAGRAMS:
+```PYTHON
 DEVELOPED BY : GANESH R
-
 REG NO : 212222240029
+```
 ## USE CASE DIAGRAM:
 ![OUTPUT](Usecase.png)
 
